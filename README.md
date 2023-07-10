@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jarrad</h1>
-<h3 align="center">A Aspiring Data Scientist from England</h3>
+<h3 align="center">An aspiring Data Scientist from England</h3>
 
+- ⚡ I have just finished a bootcamp in **Data Science** focusing on python
+    | - matplotlib | - Seaborn | - numpy|
+  
 - 🌱 I’m currently learning **PowerBI, SQL**
 
 - 📫 How to reach me **hurstjarrad@gmail.com**
